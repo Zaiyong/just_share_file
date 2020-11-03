@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "wind_site" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.439674, 58.342626 ], [ 6.499674, 58.342626 ], [ 6.499674, 58.402626 ], [ 6.439674, 58.402626 ], [ 6.439674, 58.342626 ] ] ] } }
+]
+}
